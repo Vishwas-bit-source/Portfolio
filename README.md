@@ -1,4 +1,4 @@
 # MyPortfolio
 My Portfolio 
-https://vishwas-bit-source.github.io/MyPortfolio/
+https://vishwas-bit-source.github.io/VishwasPortfolio/
 Link for website
